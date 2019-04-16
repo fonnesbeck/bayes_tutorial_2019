@@ -3,6 +3,7 @@
 ### Chris Fonnesbeck
 Senior Quantitative Analyst, The New York Yankees
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/bayes_tutorial_2019/master)
 
 ## Getting Python
 
