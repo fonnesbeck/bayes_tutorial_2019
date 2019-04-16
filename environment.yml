@@ -24,4 +24,4 @@ dependencies:
 - xlrd
 - pip
   - autograd
-  - git+git+git://github.com/colcarroll/minimc.git#egg=minimc
+  - git+https://github.com/colcarroll/minimc
