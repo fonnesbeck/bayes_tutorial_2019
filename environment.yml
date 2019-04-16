@@ -15,7 +15,6 @@ dependencies:
 - numpy
 - pandas
 - patsy
-- pip
 - pymc3
 - pydot
 - python-graphviz
@@ -23,3 +22,7 @@ dependencies:
 - seaborn
 - setuptools
 - xlrd
+- pip
+  - autograd
+  - git+https://github.com/ColCarroll/minimc.git
+  
