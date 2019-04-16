@@ -22,6 +22,6 @@ dependencies:
 - seaborn
 - setuptools
 - xlrd
-- pip
+- pip:
   - autograd
   - git+https://github.com/colcarroll/minimc.git
